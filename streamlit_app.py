@@ -4,6 +4,7 @@ simply click on the link provided in the Readme file to watch a demonstration.
 '''
 
 #import libraries
+opencv-python-headless
 import cv2
 import numpy as np
 import streamlit as st
